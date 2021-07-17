@@ -11,5 +11,5 @@ We trained the neural network for several weeks. Finally we got an outstanding r
 
 ![](https://github.com/007DXR/Google-Research-Football-Project/blob/main/empty_goal.mp4)
 
-## [click for more information](https://007dxr.github.io/homework_3/task1/《狼王梦》角色关系图.html)
+## [Click for more information](https://github.com/007DXR/Google-Research-Football-Project/blob/main/Report%20for%20GF%20Project.pdf)
 
