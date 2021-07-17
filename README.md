@@ -9,7 +9,5 @@ We implemented algorithms such as DQN, D3QN, PPO and tested their effects on thr
 
 We trained the neural network for several weeks. Finally we got an outstanding result that the agent performs well with the well-designed parameter settings.
 
-![](https://github.com/007DXR/Google-Research-Football-Project/blob/main/empty_goal.mp4)
-
-## [Click for more information](https://github.com/007DXR/Google-Research-Football-Project/blob/main/Report%20for%20GF%20Project.pdf)
+## [Click here for more information](https://github.com/007DXR/Google-Research-Football-Project/blob/main/Report%20for%20GF%20Project.pdf)
 
